@@ -1,0 +1,21 @@
+{
+  "?config_version": "please do not modify this element",
+  "config_version": 1,
+  "?cross_bow_shot_explosion": "determine whether a firework rocket shot by crossbow can explode",
+  "cross_bow_shot_explosion": true,
+  "?hand_launch_explosion": "determine whether firework rockets (except shot by crossbow) can explode",
+  "hand_launch_explosion": false,
+  "?base_explosion_power": "determine the base power of the explosion (it would not work if the rocket was not made from firework stars)",
+  "base_explosion_power": 1.0,
+  "?firework_star_multiplier": "determine how much each firework star can add to the explosion power",
+  "firework_star_multiplier": 0.5,
+  "?can_destroy_blocks": "determine whether the explosion can destroy blocks",
+  "can_destroy_blocks": true,
+  "?tnt_mode": "determine whether the explosion can keep all drop items like tnt (regardless of the game rule tntExplosionDropDecay)",
+  "tnt_mode": true,
+  "?can_create_fire": "determine whether the explosion can create fire",
+  "can_create_fire": false,
+  "?show_particles1": "determine whether the explosion have explosion particles",
+  "?show_particles2": "for unknown reason, this did not work",
+  "show_particles": false
+}

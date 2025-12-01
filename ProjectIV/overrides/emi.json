@@ -1,0 +1,92 @@
+{
+  "favorites": [
+    {
+      "stack": "item:minecraft:cornflower"
+    },
+    {
+      "stack": "item:touhou_little_maid:smart_slab_has_maid{\"touhou_little_maid:maid_info\":{AbsorptionAmount:0.0f,Age:0,Air:300s,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{components:{\"cold_sweat:armor_insulation\":{insulation:[]}},count:1,id:\"projecte:rm_boots\"},{components:{\"cold_sweat:armor_insulation\":{insulation:[]}},count:1,id:\"projecte:rm_leggings\"},{components:{\"cold_sweat:armor_insulation\":{insulation:[]}},count:1,id:\"projecte:rm_chestplate\"},{components:{\"cold_sweat:armor_insulation\":{insulation:[]}},count:1,id:\"projecte:rm_helmet\"}],BaguData:{},Brain:{memories:{}},CanPickUpLoot:0b,DeathTime:0s,FallDistance:0.0f,FallFlying:0b,FavorabilityManagerCounter:{},Fire:-1s,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{components:{\"minecraft:damage\":3,\"minecraft:enchantments\":{levels:{\"minecraft:protection\":300,\"minecraft:sharpness\":300}}},count:1,id:\"simplyswords:diamond_twinblade\"},{count:2,id:\"minecraft:cherry_sapling\"}],Health:20.0f,HurtByTimestamp:5499,HurtTime:0s,InLove:0,Invulnerable:0b,IsYsmModel:0b,KillRecord:{EnderDragon:0,KillRecord:0,Slime:0,Wither:0},LeftHanded:0b,MaidAIChatData:{ChatModel:\"\",ChatSiteName:\"\",ChatTemperature:-1.0d,CustomSetting:\"\",OwnerName:\"\",TtsLanguage:\"\",TtsModel:\"\",TtsSiteName:\"\"},MaidBackpackData:{},MaidBackpackType:\"touhou_little_maid:empty\",MaidBaubleInventory:{Items:[{Slot:0,count:1,id:\"minecraft:totem_of_undying\"}],Size:9},MaidExperience:7,MaidFavorability:0,MaidGameSkillData:{},MaidHideInventory:{Items:[],Size:1},MaidHunger:0,MaidInventory:{Items:[{Slot:0,count:2,id:\"minecraft:oak_sapling\"},{Slot:1,count:71,id:\"minecraft:dandelion\"},{Slot:2,count:27,id:\"minecraft:wheat_seeds\"},{Slot:3,count:32,id:\"tofucraft:seeds_soybeans\"},{Slot:4,count:23,id:\"minecraft:oxeye_daisy\"},{Slot:5,count:2,id:\"minecraft:stick\"}],Size:36},MaidIsHome:0b,MaidIsPickup:1b,MaidIsRideable:1b,MaidScheduleMode:\"ALL\",MaidSchedulePos:{Configured:0b,Dimension:\"minecraft:overworld\",Idle:[I;0,0,0],Sleep:[I;0,0,0],Work:[I;0,0,0]},MaidScriptBook:[],MaidSubConfig:{ActiveClimbing:1b,BackItemShow:1b,BackpackShow:1b,ChatBubbleShow:1b,OpenDoor:1b,OpenFenceGate:1b,PickupType:2,SoundFreq:0.6999999f},MaidTask:\"touhou_little_maid:grass\",MaidTaskDataMaps:{},MaidTaskInventory:{Items:[],Size:9},Motion:[0.03700020541161521d,-0.0784000015258789d,-0.036502522062719256d],NeoForgeData:{CreateNetheriteDivingBits:3b},OnGround:1b,Owner:[I;1333806477,1745303097,-2036722450,1088935997],PersistenceRequired:0b,PortalCooldown:0,Pos:[1531.4297565470572d,69.0d,790.5580738066955d],Rotation:[225.33118f,33.949554f],Sitting:0b,SoundPackId:\"littlemaid_peco\",StruckByLightning:0b,StructureSpawn:0b,UUID:[I;-1875239805,-110735762,-1256956186,-1264005510],YsmModelId:\"\",YsmModelName:\u0027\"\"\u0027,YsmModelTexture:\"\",YsmRoamingUpdateFlag:0,YsmRoamingVars:{},YsmRouletteAnim:\"empty\",active_effects:[{ambient:1b,duration:214,id:\"minecraft:regeneration\",\"neoforge:cures\":[\"protected_by_totem\",\"milk\"],show_icon:0b,show_particles:0b}],attributes:[{base:0.0d,id:\"minecraft:generic.knockback_resistance\"},{base:0.0d,id:\"minecraft:generic.armor\"},{base:0.7d,id:\"minecraft:generic.movement_speed\"},{base:0.0d,id:\"minecraft:generic.armor_toughness\"},{base:0.1d,id:\"caelus:fall_flying\"},{base:0.0d,id:\"minecraft:generic.oxygen_bonus\"},{base:2.0d,id:\"minecraft:generic.attack_damage\"}],model_id:\"touhou_little_maid:tatara_kogasa\",\"neoforge:attachments\":{\"accessories:inventory_holder\":{},\"apotheosis:tier_augments_applied\":1b,\"apothic_attributes:aux_dmg_tracker\":{},\"tofucraft:soy_health\":{RemainChangedTick:-12000L,RemainTick:-12000L,SoyHealthBaseLevel:0,SoyHealthLevel:0},\"tofucraft:tofu_living\":{},\"twilightforest:fortification_shields\":{permanent_shields:0,temporary_shields:0}}}}"
+    }
+  ],
+  "lookup_history": [
+    "item:minecraft:scaffolding",
+    "item:minecraft:stonecutter",
+    "item:create:andesite_scaffolding",
+    "item:create:white_sail",
+    "item:minecraft:jungle_slab",
+    "item:create:windmill_bearing",
+    "item:create:shaft",
+    {
+      "type": "item",
+      "id": "create:andesite_casing",
+      "amount": 100000
+    },
+    {
+      "type": "item",
+      "id": "create:andesite_alloy",
+      "amount": 49997
+    },
+    "item:twilightforest:uncrafting_table",
+    "item:projecte:philosophers_stone",
+    {
+      "type": "item",
+      "id": "minecraft:andesite",
+      "amount": 99999
+    },
+    {
+      "type": "item",
+      "id": "primogemcraft:weizhiyepian",
+      "amount": 2
+    },
+    "item:create_peaceful:tier_3_essence",
+    "item:create_peaceful:tier_2_essence",
+    "item:create_peaceful:tier_1_essence",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"minecraft:vanishing_curse\":1}}}",
+    "item:mcwbridges:cherry_bridge_pier",
+    {
+      "type": "item",
+      "id": "minecraft:cherry_fence",
+      "amount": 3
+    },
+    "item:mcwbridges:cherry_log_bridge_middle",
+    "item:minecraft:charcoal",
+    "item:enchantinginfuser:advanced_enchanting_infuser"
+  ],
+  "craft_history": [
+    "mynethersdelight:crafting/scaffolding_alt",
+    "minecraft:stonecutter",
+    "create:crafting/kinetics/gearbox",
+    "create:crafting/kinetics/vertical_gearbox",
+    "create:crafting/kinetics/chain_conveyor",
+    "minecraft:furnace",
+    "create_compressed:cogwheel_block",
+    "create_compressed:large_cogwheel_block",
+    "createcasing:crafting/configurable_gearbox/andesite",
+    "create:crafting/kinetics/radial_chassis",
+    "create:crafting/kinetics/mechanical_drill",
+    "create:crafting/kinetics/secondary_linear_chassis_from_conversion",
+    "create:crafting/kinetics/linear_chassis",
+    "create:crafting/kinetics/white_sail",
+    "minecraft:stick",
+    "minecraft:shears",
+    "create:crafting/kinetics/cogwheel",
+    "create:crafting/kinetics/large_cogwheel",
+    "create:crafting/kinetics/large_water_wheel",
+    "create:crafting/kinetics/water_wheel",
+    "create:crafting/kinetics/mechanical_bearing",
+    "minecraft:cherry_slab",
+    "minecraft:cherry_planks",
+    "create:crafting/kinetics/shaft",
+    "create:crafting/materials/andesite_alloy",
+    "mcwbridges:cherry_bridge_pier",
+    "mcwbridges:cherry_log_bridge_middle",
+    "minecraft:cherry_fence",
+    "minecraft:campfire"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

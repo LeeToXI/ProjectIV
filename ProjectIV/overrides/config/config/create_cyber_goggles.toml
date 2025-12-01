@@ -1,0 +1,29 @@
+[armor]
+removeBoxOverlay = true
+removeNetheriteFirstPerson = false
+removeDivingBootsAffect = false
+[chainConveyor]
+alwaysAllowRiding = false
+preventFalling = false
+separationDistance = 3
+separationHeight = -1
+enhancedConnection = true
+cardBoardedYourself = false
+[flywheel]
+forcedBackend = false
+[goggles]
+enableInSurvival = true
+enableInCreative = true
+enableInSpectator = true
+enableInAdventure = true
+enhancedInfo = true
+enhancedStoreRender = true
+renderExtraItems = true
+enableKineticEffect = true
+preciseNumbers = true
+[jei]
+nonrandomScrap = true
+[nbt]
+nbtFix = false
+[wrench]
+alwaysAllowRotating = true

@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:eio_xpboost"
+  ],
+  "incompatible": [
+    "minecraft:silk_touch"
+  ]
+}

@@ -1,0 +1,44 @@
+[Gameplay]
+	#Determines if entity drops money after death
+	dropsMoney = true
+	#Auto stack when pickup colorful gels
+	autoStackGelsColor = true
+	#Allows you to open menu through right click the Fletching Table
+	fletchingMenu = true
+	#Allows Shimmer fluid to decomposing items
+	shimmer_decompose = true
+	#Defines the interval of falling stars appearing at night
+	# Default: 2400
+	# Range: 20 ~ 20000
+	fallingStarInterval = 2400
+	returnPotionGlassBottle = false
+	rightClickRideMinecart = true
+	#The maximum transmission distance of the Announcement Box information.
+	# Default: 128
+	# Range: > 0
+	announcementBoxDistance = 128
+	brewing_stand_recipe = false
+	alertPlayerDungeon = false
+
+[PlayerDeath]
+	showMoneyDrops = true
+	dropsTombstone = true
+	#The min value of the default respawn time
+	# Default: 3
+	# Range: > 0
+	defaultRespawnTimeMin = 3
+	#The max value of the default respawn time
+	# Default: 8
+	# Range: > 0
+	defaultRespawnTimeMax = 8
+	#The min respawn time when the boss is present
+	# Default: 9
+	# Range: > 0
+	bossRespawnTimeMin = 9
+	#The max respawn time when the boss is present
+	# Default: 18
+	# Range: > 0
+	bossRespawnTimeMax = 18
+
+[WorldGeneration]
+	replaceVanillaGeodeFeature = true

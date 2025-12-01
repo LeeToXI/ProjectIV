@@ -1,0 +1,110 @@
+{
+  "ToolValues": {
+  
+    "bone": {
+      "speed": 3,
+      "attackDamageBonus": 4,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_wooden_tool",
+      "durability": 176,
+      "enchantmentValue": 17
+    },
+    "coal": {
+      "speed": 3.9,
+      "attackDamageBonus": 2,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_wooden_tool",
+      "durability": 145,
+      "enchantmentValue": 17
+    },
+    "copper": {
+      "speed": 1.9,
+      "attackDamageBonus": 1,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_stone_tool",
+      "durability": 98,
+      "enchantmentValue": 10
+    },
+    "emerald": {
+      "speed": 8.2,
+      "attackDamageBonus": 7,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_iron_tool",
+      "durability": 1171,
+      "enchantmentValue": 35
+    },
+    "ender": {
+      "speed": 3.7,
+      "attackDamageBonus": 6,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_iron_tool",
+      "durability": 666,
+      "enchantmentValue": 10
+    },
+    "fiery": {
+      "speed": 4,
+      "attackDamageBonus": 6,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_stone_tool",
+      "durability": 127,
+      "enchantmentValue": 15
+    },
+    "glowstone": {
+      "speed": 3,
+      "attackDamageBonus": 4,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_stone_tool",
+      "durability": 123,
+      "enchantmentValue": 35
+    },
+    "lapis": {
+      "speed": 173,
+      "attackDamageBonus": 3,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_iron_tool",
+      "durability": 173,
+      "enchantmentValue": 20
+    },
+    "nether": {
+      "speed": 3.9,
+      "attackDamageBonus": 4,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_stone_tool",
+      "durability": 188,
+      "enchantmentValue": 66
+    },
+    "obsidian": {
+      "speed": 4.7,
+      "attackDamageBonus": 7,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_diamond_tool",
+      "durability": 1337,
+      "enchantmentValue": 15
+    },
+    "paper": {
+      "speed": 1.8,
+      "attackDamageBonus": 0.0,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_wooden_tool",
+      "durability": 13,
+      "enchantmentValue": 17
+    },
+    "prismarine": {
+      "speed": 6,
+      "attackDamageBonus": 6,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_iron_tool",
+      "durability": 225,
+      "enchantmentValue": 20
+    },
+    "quartz": {
+      "speed": 3.9,
+      "attackDamageBonus": 5,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_stone_tool",
+      "durability": 117,
+      "enchantmentValue": 18
+    },
+    "redstone": {
+      "speed": 173,
+      "attackDamageBonus": 3,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_iron_tool",
+      "durability": 173,
+      "enchantmentValue": 20
+    },
+    "slime": {
+      "speed": 5.2,
+      "attackDamageBonus": 7,
+      "incorrectBlockForDrops": "minecraft:incorrect_for_stone_tool",
+      "durability": 123,
+      "enchantmentValue": 20
+    }
+  }
+}
