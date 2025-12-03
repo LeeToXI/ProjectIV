@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "item": "croptopia:raspberry",
+      "emc": 32
+    },
+    {
+      "item": "fruitsdelight:orange",
+      "emc": 32
+    },
+    {
+      "item": "croptopia:tomato",
+      "emc": 64
+    },
+    {
+      "item": "croptopia:raspberry_seed",
+      "emc": 32
+    },
+    {
+      "item": "croptopia:blueberry_seed",
+      "emc": 32
+    },
+    {
+      "item": "croptopia:blueberry",
+      "emc": 64
+    },
+    {
+      "item": "croptopia:tomato_seed",
+      "emc": 32
+    },
+    {
+      "item": "croptopia:blackberry_seed",
+      "emc": 32
+    },
+    {
+      "item": "croptopia:blackberry",
+      "emc": 64
+    }
+  ]
+}

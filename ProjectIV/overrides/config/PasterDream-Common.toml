@@ -1,0 +1,23 @@
+
+[Basic]
+	#玩家在主世界的夜晚会降低精神值 默认：true
+	"overworld night lowers san" = true
+	#染梦裂隙自然生成（如非特别需要勿关，会影响游戏正常流程） 默认：true
+	"dyedream crack generate" = true
+	#精神值低于一定数值时会产生负面buff效果 默认：true
+	"low san debuff" = true
+	#在精神值大于等于这个数值时会给予玩家振奋效果 默认：99
+	"cheerup buff threshold value" = 99.0
+	#融梦水晶箱触发传说宝藏的额外倍率 默认：1
+	"meltdream chest legend multiplier" = 1.0
+	#融梦水晶箱触发稀有宝藏的额外倍率 默认：1
+	"meltdream chest rare multiplier" = 1.0
+	#玩家在睡眠完成时的精神值回复量 默认：10
+	"sleep san recovery amount" = 10.0
+	#玩家在过低精神值时会产生画面抖动 默认：true
+	"low san picture jitter" = true
+	#初始生成世界时在0,0原点生成染梦裂隙 默认：false
+	"the origin of the world initially generated dyedream crack " = false
+	#启用模组进入游戏时的聊天栏公告 默认：true
+	"mod accouocement" = true
+
