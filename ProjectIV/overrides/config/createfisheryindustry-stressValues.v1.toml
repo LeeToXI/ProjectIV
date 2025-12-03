@@ -1,4 +1,0 @@
-#Stress impact configurations for createfisheryindustry
-#[in Stress Units]
-[impact]
-	mechanical_peeler = 4.0

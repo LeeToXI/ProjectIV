@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 2,
-  "items": [
-    "$minecraft:bow",
-    "create:potato_cannon",
-    "tfmg:quad_potato_cannon"
-  ],
-  "incompatible": []
-}

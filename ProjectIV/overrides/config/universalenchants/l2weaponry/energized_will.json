@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 2,
-  "items": [
-    "$minecraft:machetes"
-  ],
-  "incompatible": [
-    "l2weaponry:raised_spirit"
-  ]
-}
