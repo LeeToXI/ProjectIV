@@ -1,0 +1,8 @@
+{
+  "extra_rd": 100,
+  "fallback_allocation_size": 2048,
+  "enable_temporal_coherence": true,
+  "geometry_removing_memory_size": 2048,
+  "region_keep_distance": 256,
+  "disable_graph_update": false
+}

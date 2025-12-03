@@ -1,0 +1,10 @@
+{
+  "pay_emerald_to_drop_items": true,
+  "villagers_drop_items_on_death": true,
+  "retain_item_name": true,
+  "retain_item_damage": true,
+  "retain_other_item_nbt": true,
+  "limit_enchantments": true,
+  "pickup_deny_list": [],
+  "fetch_translation_updates": true
+}

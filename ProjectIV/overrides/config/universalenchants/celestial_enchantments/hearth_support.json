@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_head"
+  ],
+  "incompatible": [
+    "minecraft:thorns",
+    "celestial_enchantments:frost_thorns"
+  ]
+}
