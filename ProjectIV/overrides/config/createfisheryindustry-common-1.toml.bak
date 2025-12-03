@@ -1,6 +1,0 @@
-#Frame Trap settings
-[frameTrap]
-	#List of entity registry names to always allow catching (whitelist). Example: 'minecraft:squid'
-	whitelist = ["minecraft:phantom", "minecraft:squid", "minecraft:spider", "minecraft:cave_spider", "minecraft:silverfish"]
-	#List of entity registry names to never catch (blacklist). Example: 'minecraft:dolphin'
-	blacklist = ["minecraft:dolphin", "minecraft:axolotl", "minecraft:cat", "minecraft:allay"]
