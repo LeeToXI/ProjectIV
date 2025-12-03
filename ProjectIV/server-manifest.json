@@ -3,7 +3,7 @@
   "author": "SiEDiYu",
   "version": "5.1",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/LeeToXI/ProjectIV/main/ProjectIV/",
+  "fileApi": "https://raw.githubusercontent.com/LeeToXI/ProjectIV/refs/heads/main/ProjectIV/",
   "files": [
     {
       "path": "config/accessories.json5",
