@@ -3,7 +3,7 @@
   "author": "SiEDiYu",
   "version": "5.1",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/LeeToXI/ProjectIV/refs/heads/main/ProjectIV/",
+  "fileApi": "https://raw.githubusercontent.com/LeeToXI/ProjectIV/refs/heads/main/ProjectIV",
   "files": [
     {
       "path": "config/accessories.json5",
@@ -10954,14 +10954,6 @@
       "hash": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
     },
     {
-      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID",
-      "hash": "25c76840b9ecef07de0fcf1b1e8404193a6f1fb1"
-    },
-    {
-      "path": "CustomSkinLoader/CustomSkinLoader.json",
-      "hash": "a0924dc8b3f5ed669876786efb7b2f614a1e96b2"
-    },
-    {
       "path": "emi.json",
       "hash": "98387359af7f9f23397ef279686dbe4fba678366"
     },
@@ -13866,6 +13858,10 @@
       "hash": "352e5095af2849e2b595c2a7617b118764ff5c18"
     },
     {
+      "path": "mods/acceleratedrendering-1.0.7-1.21.1-alpha.jar",
+      "hash": "ddd36b558ee7c3bb66a598d4ad3741ead6825cc4"
+    },
+    {
       "path": "mods/accessories-neoforge-1.1.0-beta.52+1.21.1.jar",
       "hash": "c2b288a7fa9ae595e3fa9cc7deee56306474e300"
     },
@@ -14830,44 +14826,8 @@
       "hash": "255679ac1c9e116f2d9b8b4809720889a310f9e9"
     },
     {
-      "path": "natives-windows-x86_64/glfw.dll",
-      "hash": "2e19147110b9872a52814956bab151a7aa80ce58"
-    },
-    {
-      "path": "natives-windows-x86_64/jemalloc.dll",
-      "hash": "6403f8243ea983a225b3bcda6c821a0029ad9ee2"
-    },
-    {
-      "path": "natives-windows-x86_64/jna12512370004181565104.dll",
-      "hash": "94d2191378cac5719daecc826fc116816284c406"
-    },
-    {
-      "path": "natives-windows-x86_64/jna12512370004181565104.dll.x",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl.dll",
-      "hash": "2bf57942dff5360889f0e89c58d5acdc54e5f1ea"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl_opengl.dll",
-      "hash": "dc0249933f6fc2c0dafa53a3b710056597c8ee19"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl_stb.dll",
-      "hash": "af3b372e2b366c5e681cd3b0640fd9fc41e0a265"
-    },
-    {
-      "path": "natives-windows-x86_64/OpenAL.dll",
-      "hash": "96014cec517f2c55a0329a71cd99e68cab7d3242"
-    },
-    {
       "path": "options.txt",
       "hash": "adfba80ac689ae1949af1798a79a05da2194c8a5"
-    },
-    {
-      "path": "patchouli_data.json",
-      "hash": "231380073231d2812497b2be8d12dd38fef3ead8"
     },
     {
       "path": "resourcepacks/Bare Bones 1.21.5.zip",
