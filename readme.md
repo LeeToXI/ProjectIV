@@ -8,8 +8,9 @@
 <img
 src="%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95-media/4cfa31b46a03d7f6ab852f26021dcc831c9179cc.bmp"
 alt="PixPin_2025-12-03_16-10-24" />
-<figcaption aria-hidden="true">PixPin_2025-12-03_16-10-24</figcaption>
+<figcaption aria-hidden="true"></figcaption>
 </figure>
+
 
 4.点击实例列表
 
@@ -17,8 +18,9 @@ alt="PixPin_2025-12-03_16-10-24" />
 <img
 src="%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95-media/3f69e6259c01a0cdef9b9c6b4ded628e19e8df40.bmp"
 alt="PixPin_2025-12-03_16-10-50" />
-<figcaption aria-hidden="true">PixPin_2025-12-03_16-10-50</figcaption>
+<figcaption aria-hidden="true"></figcaption>
 </figure>
+
 
 5.点击安装整合包
 
@@ -26,8 +28,9 @@ alt="PixPin_2025-12-03_16-10-50" />
 <img
 src="%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95-media/1898bb31f135873818f2cabdfdbdbc49e993debf.bmp"
 alt="PixPin_2025-12-03_16-11-12" />
-<figcaption aria-hidden="true">PixPin_2025-12-03_16-11-12</figcaption>
+<figcaption aria-hidden="true"></figcaption>
 </figure>
+
 
 6.点击 从互联网下载整合包
 
@@ -35,8 +38,9 @@ alt="PixPin_2025-12-03_16-11-12" />
 <img
 src="%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95-media/42f9048aaa4bbc41cd9a10d300eebc2a4528778a.bmp"
 alt="PixPin_2025-12-03_16-11-35" />
-<figcaption aria-hidden="true">PixPin_2025-12-03_16-11-35</figcaption>
+<figcaption aria-hidden="true"></figcaption>
 </figure>
+
 
 7.填入下列链接
 
@@ -50,5 +54,6 @@ https://raw.githubusercontent.com/LeeToXI/ProjectIV/refs/heads/main/ProjectIV/se
 <img
 src="%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95-media/3e9d144f61af69bd1ae83e687a6031273613ae5c.bmp"
 alt="PixPin_2025-12-03_16-12-39" />
-<figcaption aria-hidden="true">PixPin_2025-12-03_16-12-39</figcaption>
+<figcaption aria-hidden="true"></figcaption>
 </figure>
+
